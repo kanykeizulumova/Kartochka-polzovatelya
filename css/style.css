@@ -45,7 +45,6 @@ html {
     h1 {
         font-family: Inter;
         font-weight: 400;
-        font-style: Regular;
         font-size: 20px;
         line-height: 100%;
         letter-spacing: 0%;
@@ -55,7 +54,6 @@ html {
     h2 {
         font-family: Inter;
         font-weight: 400;
-        font-style: Regular;
         font-size: 14px;
         line-height: 100%;
         letter-spacing: 0%;
@@ -66,7 +64,6 @@ html {
 .card-btn {
     font-family: Inter;
     font-weight: 400;
-    font-style: Regular;
     font-size: 14px;
     line-height: 100%;
     letter-spacing: 0%;
@@ -77,5 +74,4 @@ html {
     padding: 8px 12px;
     outline: none;
     border: none;
-
 }
